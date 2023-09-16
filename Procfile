@@ -1,1 +1,1 @@
-worker: bash Tep
+worker: bash Power
